@@ -225,6 +225,10 @@ main {
     margin-bottom: 15px;
 }
 
+.box3 img{
+    object-fit: contain;
+}
+
 .box3:hover {
     transform: scale(1.05);
 }
